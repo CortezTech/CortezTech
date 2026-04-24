@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Ronny Cortez
 
 💻 DAM student (Multiplatform App Development)
+
 📍 Spain
+
 🧠 Interested in backend development, AI & systems that solve real problems
 
 ---
